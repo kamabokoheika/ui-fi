@@ -9,6 +9,8 @@ AIに書かせた謎のアプリ
 
 設定画面で好きなやつに変更可能
 
+[ダウンロード(x64)](https://github.com/kamabokoheika/ui-fi/raw/refs/heads/main/Ui-Fi-x64.zip) [ダウンロード(arm64)](https://github.com/kamabokoheika/ui-fi/raw/refs/heads/main/Ui-Fi-arm64.zip)
+
 ---
 
 English
@@ -19,6 +21,8 @@ By default, it looks like this:
 <img width="347" height="155" alt="image" src="https://github.com/user-attachments/assets/e5463ae9-537f-46c4-82a5-d7abc88d15a3" />
 
 You can change it to whatever you like in the settings screen.
+
+[Download (x64)](https://github.com/kamabokoheika/ui-fi/raw/refs/heads/main/Ui-Fi-x64.zip) [Download (arm64)](https://github.com/kamabokoheika/ui-fi/raw/refs/heads/main/Ui-Fi-arm64.zip)
 
 ---
 
@@ -32,3 +36,5 @@ AI에게 만들게 한 의문의 앱
 이렇게 표시됩니다
 
 설정 화면에서 원하는 것으로 변경할 수 있습니다
+
+[다운로드(x64)](https://github.com/kamabokoheika/ui-fi/raw/refs/heads/main/Ui-Fi-x64.zip) [다운로드(arm64)](https://github.com/kamabokoheika/ui-fi/raw/refs/heads/main/Ui-Fi-arm64.zip)
